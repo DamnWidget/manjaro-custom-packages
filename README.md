@@ -3,6 +3,6 @@ My customized manjaro packages (mainly kernel and modules), I don't expect this 
 
 ## PKGBUILD Sources
 
-The PKGBUILD souurces can be found in:
+The PKGBUILD sources can be found in:
 - https://github.com/DamnWidget/packages-core
 - https://github.com/DamnWidget/packages-extra
